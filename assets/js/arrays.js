@@ -20,3 +20,5 @@ function add() {
     document.getElementById('inp3').value = parseInt(input1) + parseInt(input2);
     //input3.value = parseInt(input1) + parseInt(input2);
 }
+
+
